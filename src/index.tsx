@@ -1,15 +1,24 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import reportWebVitals from "./reportWebVitals";
+import { ChakraProvider } from "@chakra-ui/react";
+import { Layout } from "./app/layout";
+import { UserProvider } from "./user/UserContext";
+import { Home } from "./app/screens/Home";
 
 const root = ReactDOM.createRoot(
-  document.getElementById('root') as HTMLElement
+  document.getElementById("root") as HTMLElement
 );
 root.render(
   <React.StrictMode>
-    <App />
+    <ChakraProvider>
+      <UserProvider>
+        <Layout>
+          <Home />
+        </Layout>
+      </UserProvider>
+    </ChakraProvider>
   </React.StrictMode>
 );
 
