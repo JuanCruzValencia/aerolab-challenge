@@ -2,6 +2,7 @@
   "name": "aerolab-challenge",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://juancruzvalencia.github.io/aerolab-challenge/",
   "dependencies": {
     "@chakra-ui/react": "^2.3.7",
     "@emotion/react": "^11.10.5",
