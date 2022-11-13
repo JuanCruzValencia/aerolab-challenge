@@ -1,4 +1,5 @@
 import { Box } from "@chakra-ui/react";
+import { Footer } from "../screens/Footer";
 import { Navbar } from "./Navbar";
 
 type Props = {
@@ -10,6 +11,7 @@ export const Layout: React.FC<Props> = ({ children }) => {
     <Box paddingY={3}>
       <Navbar />
       {children}
+      <Footer />
     </Box>
   );
 };
