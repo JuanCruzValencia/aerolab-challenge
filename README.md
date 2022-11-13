@@ -1,13 +1,13 @@
-Aerolab Shop - e-commerce React App Project
+#Aerolab Shop - e-commerce React App Project
 Link to live version - [Aerolab-Challenge](https://juancruzvalencia.github.io/aerolab-challenge/)
 
 Aerolab SHop is an e-commerce web application that allows users to filter and redeem products from Aerolab API.
 
-DEMO
+##DEMO
 
 ![](https://github.com/JuanCruzValencia/aerolab-challenge/blob/main/aerolab-challenge.gif)
 
-Technologies used
+###Technologies used
 GitHub - provides hosting for software development version control using Git.
 
 Git - version-control system for tracking changes in source code during software development.
