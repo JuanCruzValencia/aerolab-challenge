@@ -1,46 +1,25 @@
-# Getting Started with Create React App
+Aerolab Shop - e-commerce React App Project
+Link to live version - [Aerolab-Challenge](https://juancruzvalencia.github.io/aerolab-challenge/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aerolab SHop is an e-commerce web application that allows users to filter and redeem products from Aerolab API.
 
-## Available Scripts
+DEMO
 
-In the project directory, you can run:
+![](https://github.com/JuanCruzValencia/aerolab-challenge/blob/main/aerolab-challenge.gif)
 
-### `npm start`
+Technologies used
+GitHub - provides hosting for software development version control using Git.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Git - version-control system for tracking changes in source code during software development.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Google Fonts - library of free licensed fonts.
 
-### `npm test`
+ReactJS - Javascript library.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+JavaScript - programming language.
 
-### `npm run build`
+TypeScript -  syntactic superset of JavaScript which adds static typing.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+CSS3 - used to define styles for Web pages, including the design, layout and variations in display for different devices and screen sizes.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Chakra UI - component library that gives you the building blocks you need to build your React applications.
